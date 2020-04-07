@@ -23,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/technical/org_github_labels.html</loc>
+    <loc>https://status.im/technical/index.html</loc>
     
     <lastmod>2020-04-06T20:49:20.593Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/technical/index.html</loc>
+    <loc>https://status.im/technical/org_github_labels.html</loc>
     
     <lastmod>2020-04-06T20:49:20.593Z</lastmod>
     
@@ -44,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/technical/testing.html</loc>
-    
-    <lastmod>2020-04-06T20:49:20.593Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/technical/statusphere.html</loc>
     
     <lastmod>2020-04-06T20:49:20.593Z</lastmod>
@@ -58,14 +51,21 @@
   </url>
   
   <url>
-    <loc>https://status.im/v1/index.html</loc>
+    <loc>https://status.im/technical/tribute_to_talk.html</loc>
     
     <lastmod>2020-04-06T20:49:20.593Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/technical/tribute_to_talk.html</loc>
+    <loc>https://status.im/technical/testing.html</loc>
+    
+    <lastmod>2020-04-06T20:49:20.593Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/v1/index.html</loc>
     
     <lastmod>2020-04-06T20:49:20.593Z</lastmod>
     
@@ -114,13 +114,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/technical/build_status/index.html</loc>
-    
-    <lastmod>2020-04-06T20:49:20.589Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/technical/build_status/status_go.html</loc>
     
     <lastmod>2020-04-06T20:49:20.589Z</lastmod>
@@ -135,6 +128,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/technical/build_status/index.html</loc>
+    
+    <lastmod>2020-04-06T20:49:20.589Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/our_team/open_positions.html</loc>
     
     <lastmod>2020-04-06T20:49:20.577Z</lastmod>
@@ -143,6 +143,13 @@
   
   <url>
     <loc>https://status.im/our_team/our_principles.html</loc>
+    
+    <lastmod>2020-04-06T20:49:20.577Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/our_team/perks_benefits.html</loc>
     
     <lastmod>2020-04-06T20:49:20.577Z</lastmod>
     
@@ -184,14 +191,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/our_team/perks_benefits.html</loc>
+    <loc>https://status.im/research/whisper_faqs.html</loc>
     
     <lastmod>2020-04-06T20:49:20.577Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/research/whisper_faqs.html</loc>
+    <loc>https://status.im/research/whisper_pss.html</loc>
     
     <lastmod>2020-04-06T20:49:20.577Z</lastmod>
     
@@ -212,14 +219,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/research/whisper_pss.html</loc>
+    <loc>https://status.im/tbp/index.html</loc>
     
     <lastmod>2020-04-06T20:49:20.577Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/tbp/index.html</loc>
+    <loc>https://status.im/docs/FAQs.html</loc>
     
     <lastmod>2020-04-06T20:49:20.577Z</lastmod>
     
@@ -234,13 +241,6 @@
   
   <url>
     <loc>https://status.im/research/ulc_in_details.html</loc>
-    
-    <lastmod>2020-04-06T20:49:20.577Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/docs/FAQs.html</loc>
     
     <lastmod>2020-04-06T20:49:20.577Z</lastmod>
     
@@ -289,20 +289,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/nft-nyc/index.html</loc>
-    
-    <lastmod>2020-04-06T20:49:20.573Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/mobile-release-schedule/index.html</loc>
-    
-    <lastmod>2020-04-06T20:49:20.573Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/our_team/applicant_privacy.html</loc>
     
     <lastmod>2020-04-06T20:49:20.573Z</lastmod>
@@ -317,7 +303,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/our_team/index.html</loc>
+    <loc>https://status.im/mobile-release-schedule/index.html</loc>
     
     <lastmod>2020-04-06T20:49:20.573Z</lastmod>
     
@@ -331,7 +317,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/nightly/index.html</loc>
+    <loc>https://status.im/our_team/index.html</loc>
+    
+    <lastmod>2020-04-06T20:49:20.573Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/nft-nyc/index.html</loc>
     
     <lastmod>2020-04-06T20:49:20.573Z</lastmod>
     
@@ -345,14 +338,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/get-involved/community-groups/index.html</loc>
+    <loc>https://status.im/nightly/index.html</loc>
     
     <lastmod>2020-04-06T20:49:20.573Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/get-involved/educators/index.html</loc>
+    <loc>https://status.im/get-involved/community-groups/index.html</loc>
     
     <lastmod>2020-04-06T20:49:20.573Z</lastmod>
     
@@ -366,9 +359,9 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/index.html</loc>
+    <loc>https://status.im/get-involved/educators/index.html</loc>
     
-    <lastmod>2020-04-06T20:49:20.517Z</lastmod>
+    <lastmod>2020-04-06T20:49:20.573Z</lastmod>
     
   </url>
   
@@ -380,14 +373,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/status_web_api.html</loc>
+    <loc>https://status.im/developer_tools/index.html</loc>
     
     <lastmod>2020-04-06T20:49:20.517Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/why_status.html</loc>
+    <loc>https://status.im/developer_tools/status_web_api.html</loc>
     
     <lastmod>2020-04-06T20:49:20.517Z</lastmod>
     
@@ -402,6 +395,13 @@
   
   <url>
     <loc>https://status.im/docs/index.html</loc>
+    
+    <lastmod>2020-04-06T20:49:20.517Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/developer_tools/why_status.html</loc>
     
     <lastmod>2020-04-06T20:49:20.517Z</lastmod>
     
@@ -443,21 +443,14 @@
   </url>
   
   <url>
+    <loc>https://status.im/developer_tools/run_on_status/eip-1102.html</loc>
+    
+    <lastmod>2020-04-06T20:49:20.517Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/developer_tools/run_on_status/index.html</loc>
-    
-    <lastmod>2020-04-06T20:49:20.517Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/developer_tools/run_on_status/mobile_dev_tools.html</loc>
-    
-    <lastmod>2020-04-06T20:49:20.517Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/developer_tools/status_extras/index.html</loc>
     
     <lastmod>2020-04-06T20:49:20.517Z</lastmod>
     
@@ -471,7 +464,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/run_on_status/eip-1102.html</loc>
+    <loc>https://status.im/developer_tools/status_extras/index.html</loc>
+    
+    <lastmod>2020-04-06T20:49:20.517Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/developer_tools/run_on_status/mobile_dev_tools.html</loc>
     
     <lastmod>2020-04-06T20:49:20.517Z</lastmod>
     
@@ -527,14 +527,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/contribute/open_positions.html</loc>
+    <loc>https://status.im/contribute/index.html</loc>
     
     <lastmod>2020-04-06T20:49:20.509Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/contribute/index.html</loc>
+    <loc>https://status.im/contribute/open_positions.html</loc>
     
     <lastmod>2020-04-06T20:49:20.509Z</lastmod>
     
